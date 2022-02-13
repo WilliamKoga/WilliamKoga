@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WilliamKoga
-- 👀 I’m interested in ... SEO, HTML, CSS, 
-- 🌱 I’m currently learning ... SEO
+- 👀 I’m interested in ... SEO, HTML, CSS, JavaScript
+- 🌱 I’m currently learning ... JavaScript
 - 💞️ I’m looking to collaborate on ... Anyway possible
 - 📫 How to reach me ... williamkoga@gmail.com
 
